@@ -1,0 +1,5 @@
+{
+  "name": "CityLens AI",
+  "description": "A photo tourism app that recognizes landmarks, fetches history via Google Search, and provides narrated AR-style insights.",
+  "requestFramePermissions": ["camera"]
+}
